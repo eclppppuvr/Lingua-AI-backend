@@ -13,3 +13,4 @@ python-dotenv==1.0.0
 gtts==2.4.0
 pyttsx3==2.90
 pydub==0.25.1
+redis
